@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "triage",
+  "description": "Sort a pile of incoming/unsorted items on a project board — route each to the right list, set priority AND size, detect dependencies between cards, flag duplicates, and surface what needs a human…",
+  "author": {
+    "name": "jachana"
+  },
+  "repository": "https://github.com/jachana/skill-triage",
+  "license": "MIT"
+}
